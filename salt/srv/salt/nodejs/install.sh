@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NODE_VERSION=v0.10.17
+NODE_VERSION=v0.10.18
 
 wget http://nodejs.org/dist/$NODE_VERSION/node-$NODE_VERSION-linux-x64.tar.gz
 tar -zxf node-$NODE_VERSION-linux-x64.tar.gz
